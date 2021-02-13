@@ -1,0 +1,262 @@
+ACPI\PNP0200\4&2CB1BA8A&0
+    Name:     Device is currently stopped.
+STORAGE\VOLUME\{5B2FB935-DBEF-11E9-84D4-806E6F6E6963}#0000003B75C00000
+    Name:     Driver is running.
+PCI\VEN_1022&DEV_15ED&SUBSYS_00000000&REV_00\3&11583659&1&C5
+    Name: PCI     Driver is running.
+SWD\RADIO\BLUETOOTH_809133BC6AAE
+    Name:     Driver is running.
+ACPI\PNP0C0A\0
+    Name: Microsoft ACPI     Driver is running.
+ACPI\ASUS2018\2&DABA3FF&1
+    Name: ASUS System Control Interface V2
+    Device is currently stopped.
+PCI\VEN_1022&DEV_15D3&SUBSYS_12341022&REV_00\3&11583659&1&0B
+    Name: PCI Express     Driver is running.
+PCI\VEN_1022&DEV_15E9&SUBSYS_00000000&REV_00\3&11583659&1&C1
+    Name: PCI     Driver is running.
+ROOT\VOLMGR\0000
+    Name:     Driver is running.
+ACPI\PNP0103\2&DABA3FF&1
+    Name:     Device is currently stopped.
+HDAUDIO\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100&REV_1007\5&1F01249C&0&0001
+    Name: AMD High Definition Audio Device
+    Driver is running.
+SCSI\DISK&VEN_NVME&PROD_WDC_PC_SN520_SDA\5&2DEC5263&0&000000
+    Name: WDC PC SN520 SDAPNUW-256G-1102
+    Driver is running.
+SWD\DRIVERENUM\AMDUWP&5&38104665&0
+    Name:     Driver is running.
+PCI\VEN_1022&DEV_15EA&SUBSYS_00000000&REV_00\3&11583659&1&C2
+    Name: PCI     Driver is running.
+ROOT\BASICDISPLAY\0000
+    Name: Microsoft     Driver is running.
+PCI\VEN_1022&DEV_15E3&SUBSYS_197E1043&REV_00\4&18C8F581&0&0641
+    Name: High Definition Audio     Driver is running.
+ACPI\THERMALZONE\THRM
+    Name: ACPI     Driver is running.
+USB\VID_05E3&PID_0608\6&39C456E1&0&6
+    Name:     Driver is running.
+ACPI\AMDI0030\0
+    Name: AMD GPIO Controller
+    Driver is running.
+ACPI\PNP0C02\4&18C8F581&0
+    Name:     Device is currently stopped.
+PCI\VEN_1022&DEV_790E&SUBSYS_1B211043&REV_51\3&11583659&1&A3
+    Name: PCI     Driver is running.
+SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&16E51E8&0
+    Name: Realtek Audio Effects Component
+    Driver is running.
+PCI\VEN_1022&DEV_7901&SUBSYS_1B211043&REV_61\4&2E383DF4&0&0042
+    Name:     Driver is running.
+ACPI\PNP0C0D\5&1C6925CA&0
+    Name: ACPI     Driver is running.
+PCI\VEN_1022&DEV_15DB&SUBSYS_00001022&REV_00\3&11583659&1&41
+    Name: PCI Express     Driver is running.
+ROOT\VID\0000
+    Name: Microsoft Hyper-V     Driver is running.
+PCI\VEN_1022&DEV_15E6&SUBSYS_15E41022&REV_00\4&18C8F581&0&0741
+    Name: AMD SFH KMDF I2C
+    Driver is running.
+ROOT\COMPOSITEBUS\0000
+    Name:     Driver is running.
+ROOT\VDRVROOT\0000
+    Name: Microsoft     Driver is running.
+PCI\VEN_1022&DEV_790B&SUBSYS_1B211043&REV_61\3&11583659&1&A0
+    Name: AMD SMBus
+    Device is currently stopped.
+PCI\VEN_1022&DEV_15EF&SUBSYS_00000000&REV_00\3&11583659&1&C7
+    Name: PCI     Driver is running.
+ROOT\SPACEPORT\0000
+    Name: Microsoft     Driver is running.
+ROOT\KDNIC\0000
+    Name: Microsoft Kernel Debug Network Adapter
+    Driver is running.
+ACPI\PNP0800\4&2CB1BA8A&0
+    Name:     Device is currently stopped.
+PCI\VEN_1022&DEV_15E2&SUBSYS_15E21022&REV_00\4&18C8F581&0&0541
+    Name: AMD Audio CoProcessor
+    Driver is running.
+USB\VID_0B95&PID_1790\00000000000001
+    Name: ASIX AX88179 USB 3.0 to Gigabit Ethernet Adapter
+    Driver is running.
+SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&16E51E8&0
+    Name: Realtek Audio Universal Service
+    Driver is running.
+PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&1&08
+    Name: PCI     Driver is running.
+PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&1&40
+    Name: PCI     Driver is running.
+PCI\VEN_10EC&DEV_C821&SUBSYS_30401A3B&REV_00\00E04CFFFEC8210100
+    Name: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+    Driver is running.
+PCI\VEN_1022&DEV_15EC&SUBSYS_00000000&REV_00\3&11583659&1&C4
+    Name: PCI     Driver is running.
+ACPI\PNP0C09\4&2CB1BA8A&0
+    Name: Microsoft ACPI     Driver is running.
+ROOT\UMBUS\0000
+    Name: UMBus Root Bus Enumerator
+    Driver is running.
+HID\ELAN1200&COL01\4&150F7C31&0&0000
+    Name: HID-compliant mouse
+    Driver is running.
+ROOT\CAD\0000
+    Name:     Driver is running.
+ACPI\PNP0100\4&2CB1BA8A&0
+    Name:     Device is currently stopped.
+BTH\MS_BTHLE\8&1A9DA0F2&0&0
+    Name: Microsoft     Driver is running.
+ACPI\ELAN1200\1
+    Name: I2C HID     Driver is running.
+PCI\VEN_1022&DEV_15E8&SUBSYS_00000000&REV_00\3&11583659&1&C0
+    Name: PCI     Driver is running.
+SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+    Name: Microsoft Radio Device Enumeration Bus
+    Driver is running.
+ACPI\PNP0C01\C8
+    Name:     Device is currently stopped.
+SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+    Name: Microsoft Device Association Root Enumerator
+    Driver is running.
+ROOT\ACPI_HAL\0000
+    Name:     Driver is running.
+ACPI\PNP0C14\ATK
+    Name: Microsoft Windows Management Interface for ACPI
+    Driver is running.
+ACPI\PNP0A08\0
+    Name: PCI Express     Driver is running.
+ACPI\ATK3001\4&2CB1BA8A&0
+    Name: PC/AT     Driver is running.
+PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022&REV_00\4&18C8F581&0&0241
+    Name: AMD PSP 10.0 Device
+    Driver is running.
+USB\VID_13D3&PID_5A11&MI_00\8&297C2645&0&0000
+    Name: USB2.0 VGA UVC WebCam
+    Driver is running.
+ACPI_HAL\PNP0C08\0
+    Name: Microsoft ACPI-Compliant System
+    Driver is running.
+HTREE\ROOT\0
+    Driver is running.
+SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&16E51E8&0
+    Name: Realtek Hardware Support Application
+    Driver is running.
+ROOT\BASICRENDER\0000
+    Name: Microsoft     Driver is running.
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200U_WITH_RADEON_VEGA_MOBILE_GFX__\_1
+    Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  
+    Driver is running.
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200U_WITH_RADEON_VEGA_MOBILE_GFX__\_2
+    Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  
+    Driver is running.
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200U_WITH_RADEON_VEGA_MOBILE_GFX__\_3
+    Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  
+    Driver is running.
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200U_WITH_RADEON_VEGA_MOBILE_GFX__\_4
+    Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  
+    Driver is running.
+ACPI_HAL\UEFI\0
+    Name: Microsoft UEFI     Driver is running.
+USB\ROOT_HUB30\5&B3B5F7A&0&0
+    Name: USB     Driver is running.
+HDAUDIO\FUNC_01&VEN_10EC&DEV_0256&SUBSYS_1043197E&REV_1000\5&2182A4AB&0&0001
+    Name: Realtek(R) Audio
+    Driver is running.
+ACPI\MSFT0101\1
+    Name:     Driver is running.
+ACPI\FIXEDBUTTON\2&DABA3FF&1
+    Name: ACPI     Driver is running.
+{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&2F633468&0&13
+    Name: Microsoft Wi-Fi Direct Virtual Adapter
+    Driver is running.
+HID\ELAN1200&COL02\4&150F7C31&0&0001
+    Name: ASUS Precision Touchpad
+    Driver is running.
+PCI\VEN_1022&DEV_15EE&SUBSYS_00000000&REV_00\3&11583659&1&C6
+    Name: PCI     Driver is running.
+ACPI\PNP0C02\15
+    Name:     Device is currently stopped.
+ACPI\PNP0C02\90
+    Name:     Device is currently stopped.
+SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKASIO&6&16E51E8&0
+    Name: Realtek Asio Component
+    Driver is running.
+PCI\VEN_1022&DEV_15E5&SUBSYS_1B211043&REV_00\4&18C8F581&0&0341
+    Name: AMD USB 3.10     Driver is running.
+SWD\MMDEVAPI\{0.0.1.00000000}.{9F559F52-4426-4CB9-A576-4308A81A5AA0}
+    Name:     Driver is running.
+STORAGE\VOLUME\{5B2FB935-DBEF-11E9-84D4-806E6F6E6963}#0000000011500000
+    Name:     Driver is running.
+SWD\MMDEVAPI\{0.0.0.00000000}.{C43CA02E-8129-43FC-90AD-4154D85B7653}
+    Name:     Driver is running.
+USB\VID_13D3&PID_5A11\_
+    Name: USB Composite Device
+    Driver is running.
+SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+    Name: Microsoft GS     Driver is running.
+PCI\VEN_1002&DEV_15D8&SUBSYS_14BF1043&REV_C4\4&18C8F581&0&0041
+    Name: AMD Radeon(TM) Vega 3 Graphics
+    Driver is running.
+ACPI\PNP0C0C\AA
+    Name: ACPI     Driver is running.
+PCI\VEN_1022&DEV_15EB&SUBSYS_00000000&REV_00\3&11583659&1&C3
+    Name: PCI     Driver is running.
+DISPLAY\CMN15F5\5&38104665&0&UID256
+    Name:     Driver is running.
+BTH\MS_BTHBRB\8&1A9DA0F2&0&1
+    Name: Microsoft     Driver is running.
+ROOT\NDISVIRTUALBUS\0000
+    Name: NDIS     Driver is running.
+ACPI\AMDI0010\3
+    Name: AMD I2C Controller
+    Driver is running.
+USB\VID_0BDA&PID_0129\20100201396000000
+    Name: Realtek USB 2.0 Card Reader
+    Driver is running.
+PCI\VEN_1022&DEV_15D0&SUBSYS_15D01022&REV_00\3&11583659&1&00
+    Name: PCI     Driver is running.
+HID\ELAN1200&COL03\4&150F7C31&0&0002
+    Name: Microsoft Input Configuration Device
+    Driver is running.
+ACPI\PNP0B00\4&2CB1BA8A&0
+    Name:     Driver is running.
+USB\VID_13D3&PID_3529\00E04C000001
+    Name: Realtek Bluetooth Adapter
+    Driver is running.
+ACPI\PNP0C02\700
+    Name:     Device is currently stopped.
+BTH\MS_RFCOMM\8&1A9DA0F2&0&0
+    Name: Bluetooth Device (RFCOMM Protocol TDI)
+    Driver is running.
+PCI\VEN_1022&DEV_145D&SUBSYS_12341022&REV_00\3&11583659&1&0A
+    Name: PCI Express     Driver is running.
+BTH\MS_BTHPAN\8&1A9DA0F2&0&2
+    Name: Bluetooth Device (Personal Area Network)
+    Driver is running.
+PCI\VEN_1022&DEV_15DC&SUBSYS_00001022&REV_00\3&11583659&1&42
+    Name: PCI Express     Driver is running.
+STORAGE\VOLUME\{5B2FB935-DBEF-11E9-84D4-806E6F6E6963}#0000000010500000
+    Name:     Driver is running.
+PCI\VEN_15B7&DEV_5003&SUBSYS_500315B7&REV_01\4&1E23EFFC&0&000B
+    Name:     Driver is running.
+STORAGE\VOLUME\{5B2FB935-DBEF-11E9-84D4-806E6F6E6963}#0000000000100000
+    Name:     Driver is running.
+ACPI\PNP0000\4&2CB1BA8A&0
+    Name:     Device is currently stopped.
+SWD\RADIO\{7FB251A3-2C77-4C10-A687-AA6FDDB27D97}
+    Name: WLAN
+    Driver is running.
+ROOT\MSSMBIOS\0000
+    Name: Microsoft System Management BIOS Driver
+    Driver is running.
+ROOT\SYSTEM\0000
+    Name:     Driver is running.
+PCI\VEN_1002&DEV_15DE&SUBSYS_15DE1002&REV_00\4&18C8F581&0&0141
+    Name: High Definition Audio     Driver is running.
+UEFI\RES_{A66C9F76-FBE7-5FD0-BCBA-5D4FA5CB719A}\0
+    Name:     Driver is running.
+ROOT\RDPBUS\0000
+    Name:     Driver is running.
+ACPI\ACPI0003\5&1C6925CA&0
+    Name: Microsoft AC     Driver is running.
+111 matching device(s) found.
